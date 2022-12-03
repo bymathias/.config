@@ -1,0 +1,3 @@
+~/.conkyrc config/conky/conkyrc
+~/.config/terminator/config config/terminator/config
+~/.config/tint2/tint2rc config/tint2/tint2rc
